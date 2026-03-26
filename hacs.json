@@ -1,0 +1,8 @@
+{
+  "name": "DAB Net Receiver",
+  "content_in_root": false,
+  "render_readme": true,
+  "country": "NL",
+  "domains": ["dabnet"],
+  "homeassistant": "2024.0.0"
+}

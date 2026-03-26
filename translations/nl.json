@@ -1,0 +1,27 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "DAB Net Receiver",
+        "description": "Configureer je DAB Net receiver.",
+        "data": {
+          "host": "Host",
+          "name": "Naam"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Kan geen verbinding maken met het apparaat."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "DAB Net opties",
+        "data": {
+          "poll_interval": "Update-interval (seconden)"
+        }
+      }
+    }
+  }
+}
